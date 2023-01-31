@@ -1,0 +1,5 @@
+DBT é uma ferramenta de transformação de dados, baseado no eco sistema do Apache.
+Ela utiliza comandos SQL para a execução das tranformações.
+
+Tem como principais características o conceito de modelos de dados e utiliza Macros para a execução das atividades.
+
